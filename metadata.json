@@ -1,0 +1,6 @@
+{
+  "name": "AngkorTaste - Authentic Khmer Food Market",
+  "description": "A modern e-commerce platform for authentic Khmer food products, snacks, spices, desserts, and traditional delicacies with wallet, orders, wishlist, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
